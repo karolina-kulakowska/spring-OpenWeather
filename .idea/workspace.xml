@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dd65b683-f173-446a-95f5-4ee4bee38bbb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/External-Weather-API/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/External-Weather-API/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/External-Weather-API/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/External-Weather-API/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/External-Weather-API/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/External-Weather-API/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/External-Weather-API/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/External-Weather-API/src/main/java/com/karo/External/Weather/API/ExternalWeatherApiApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/External-Weather-API/src/main/java/com/karo/External/Weather/API/controller/WeatherController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/External-Weather-API/src/main/java/com/karo/External/Weather/API/model/WeatherDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/External-Weather-API/src/main/java/com/karo/External/Weather/API/service/WeatherService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/External-Weather-API/src/main/java/com/karo/External/Weather/API/webclient/dto/OpenWeatherMainDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/External-Weather-API/src/main/java/com/karo/External/Weather/API/webclient/dto/OpenWeatherWeatherDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/External-Weather-API/src/main/java/com/karo/External/Weather/API/webclient/dto/OpenWeatherWindDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/External-Weather-API/src/main/java/com/karo/External/Weather/API/webclient/weather/WeatherClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/External-Weather-API/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/External-Weather-API/src/test/java/com/karo/External/Weather/API/ExternalWeatherApiApplicationTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1lbaAmBVewMEiIc6YGD9a91LXf9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/External-Weather-API" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dd65b683-f173-446a-95f5-4ee4bee38bbb" name="Default Changelist" comment="" />
+      <created>1607868107991</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607868107991</updated>
+    </task>
+    <servers />
+  </component>
+</project>
