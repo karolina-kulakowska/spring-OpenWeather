@@ -10,7 +10,7 @@ import org.springframework.web.client.RestTemplate;
 public class WeatherClient {
 
     private static final String WEATHER_URL = "http://api.openweathermap.org/data/2.5/";
-    private static final String API_KEY = "2681d246bd3f76f4a0c5be89278a9607";
+    private static final String API_KEY = "--PASTE API KEY HERE--";
     /** A http client built into SPRING , include conversion JSON -> JAVA OBJ **/
     private RestTemplate restTemplate = new RestTemplate();
 
